@@ -1,6 +1,5 @@
 # 30-Days-Masterclass-on-Artificial-Intelligence
-## 📳CHATBOT 🐍PYTHON 📈MACHINE LEARNING - 📷COMPUTER VISION - 🧠DEEP LEARNING - 👂NATURAL LANGUAGE PROCESSING - 📡A.I USING CLOUD - 
-🤖A.I USING HARDWARE
+## 📳CHATBOT 🐍PYTHON 📈MACHINE LEARNING - 📷COMPUTER VISION - 🧠DEEP LEARNING - 👂NATURAL LANGUAGE PROCESSING - 📡A.I USING CLOUD - 🤖A.I USING HARDWARE
 ![Logo](https://github.com/yashraj9011/30-Days-Masterclass-on-Artificial-Intelligence/blob/main/IMG_20231102_071907.jpg)
 
 ### ✅DAY – 1 Overview of this course | Introduction to AI | How to create basic AI application (Chat bot using DialogFlow)
