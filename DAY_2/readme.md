@@ -4,3 +4,4 @@
 ## 3. Introduction to Python Programming .
 
 ## 4. Installation of Python Libraries Numpy and Pandas
+## 5. Applications of Artificial Intelligence
