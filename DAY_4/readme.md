@@ -1,1 +1,1 @@
-# Moving Object Detection using Computer Vision
+# Moving Object Detection and Object Trekking using open CV
