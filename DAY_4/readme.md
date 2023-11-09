@@ -1,1 +1,1 @@
-# Moving Object Detection and Object Trekking using open CV
+# Moving Object Detection and Object Tracking using openCV
