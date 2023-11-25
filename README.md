@@ -3,6 +3,7 @@
 ![Logo](https://github.com/yashraj9011/30-Days-Masterclass-on-Artificial-Intelligence/blob/main/IMG_20231102_071907.jpg)
 
 ![Logo](https://github.com/yashraj9011/30-Days-Masterclass-on-Artificial-Intelligence/blob/main/Images/IMG_20231106_192444.jpg)
+
 ### ✅DAY – 1 Overview of this course | Introduction to AI | How to create basic AI application (Chat bot using DialogFlow)
 
 ### ✅DAY – 2 How to install Python & Libraries | Basics of python Programming for AI
