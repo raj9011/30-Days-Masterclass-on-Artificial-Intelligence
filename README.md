@@ -9,7 +9,7 @@
 ### ✅DAY – 2 How to install Python & Libraries | Basics of python Programming for AI
 
 # COMPUTER VISION
-### ✅DAY – 3 Introduction to Computer Vision| How to install computer vision libraries
+### ✅DAY – 3 Introduction to Computer Vision | How to install computer vision libraries
 ### ✅DAY – 4 Moving Object Detection and tracking using OpenCV
 ### ✅DAY – 5 Face Detection and Tracking using OpenCV
 ### ✅DAY – 6 Object Tracking based on color using OpenCV
